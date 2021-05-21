@@ -1,7 +1,7 @@
 # Hi!  I'm Kevin Smith.  I like to build 💻 utility scripts and things on the web🕸️
-<p align="center">
+<!-- <p align="center">
     <img src="https://user-images.githubusercontent.com/13837028/118726504-69880f00-b7ff-11eb-9a23-fb9eb0b3ac79.png" width="250" height="300">
-</p>
+</p> -->
 
  ### Much of my work is with using the Angular Ecosystem, however with Javascript, I have worked in many different environments.  'All in all', I am a fan of all communication with computers!
 
