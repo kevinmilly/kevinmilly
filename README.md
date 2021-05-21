@@ -9,7 +9,7 @@
 
 #### Check out some of my recent personal projects I'm working on:
 
-- [NexTask/Queue-D: The Most Impactful Way to Manage Tasks](https://queue-d-cloud.web.app/)
+- [Queue-D: The Most Impactful Way to Manage Tasks](https://queue-d-cloud.web.app/)
   - [Repo](https://github.com/kevinmilly/nexttask)
 
    
