@@ -24,7 +24,6 @@
     
     <br/>
 
-### Here's some interesting metics 🤓:
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinmilly&show_icons=true&theme=radical)
 
