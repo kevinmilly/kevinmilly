@@ -13,7 +13,7 @@
   - [Repo](https://github.com/kevinmilly/nexttask)
 
    
-- [PiggyLope Budget: A 'No Fuss, No Muss' budgeting app inspired by the 'envelope method'](https://envelope-budget-55b22.web.app)
+- [PiggyLope Budget: A simple budgeting app inspired by the 'envelope method'](https://envelope-budget-55b22.web.app)
     - [Repo](https://github.com/kevinmilly/envelope-budget)
 
     
