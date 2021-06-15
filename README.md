@@ -17,7 +17,7 @@
     - [Repo](https://github.com/kevinmilly/envelope-budget)
 
     
-- K-Base: A personal knowledge geared towards technology learning
+- [K-Base: A personal knowledge geared towards technology learning](https://afternoon-shore-01719.herokuapp.com/)
     - [Frontend-Repo](https://github.com/kevinmilly/kbase-frontend)
     - [Backend-Repo](https://github.com/kevinmilly/kbase-backend)
 
