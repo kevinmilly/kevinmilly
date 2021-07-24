@@ -8,19 +8,15 @@
 
 #### Check out some of my recent personal projects I'm working on:
 
-- [Queue-D: The Most Impactful Way to Manage Tasks](https://queue-d-cloud.web.app/)
+- [Queue-D: An Impactful Way to Manage Tasks - Mobile Version](https://queue-d-cloud.web.app/)
   - [Repo](https://github.com/kevinmilly/nexttask)
 
-   
-- [PiggyLope Budget: A simple budgeting app inspired by the 'envelope method'](https://envelope-budget-55b22.web.app)
-    - [Repo](https://github.com/kevinmilly/envelope-budget)
-
-    
 - [K-Base: A personal knowledge geared towards technology learning](https://afternoon-shore-01719.herokuapp.com/)
     - [Frontend-Repo](https://github.com/kevinmilly/kbase-frontend)
     - [Backend-Repo](https://github.com/kevinmilly/kbase-backend)
 
-    
+- [PiggyLope Budget: A simple budgeting app inspired by the 'envelope method'](https://envelope-budget-55b22.web.app)
+    - [Repo](https://github.com/kevinmilly/envelope-budget)
     <br/>
 
 
