@@ -15,6 +15,9 @@
     - [Frontend-Repo](https://github.com/kevinmilly/kbase-frontend)
     - [Backend-Repo](https://github.com/kevinmilly/kbase-backend)
 
+- [Encouragement CRM: A personal CRM focused on encouraging your network]
+    - [Repo](https://github.com/kevinmilly/encourage-crm)
+
 - [PiggyLope Budget: A simple budgeting app inspired by the 'envelope method'](https://envelope-budget-55b22.web.app)
     - [Repo](https://github.com/kevinmilly/envelope-budget)
     <br/>
