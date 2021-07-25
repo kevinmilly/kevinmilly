@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/13837028/118726504-69880f00-b7ff-11eb-9a23-fb9eb0b3ac79.png" width="250" height="300">
 </p> -->
 
- ### Much of my work is with using the Angular Ecosystem, however with Javascript, I have worked in many different environments. 
+ ### Much of my work is with using the Angular Ecosystem, however with Javascript I have worked in many different environments. 
 <br/>
 
 #### Check out some of my recent personal projects I'm working on:
