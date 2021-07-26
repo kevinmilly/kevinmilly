@@ -11,7 +11,7 @@
 - [Queue-D: An Impactful Way to Manage Tasks - Mobile Version](https://queue-d-cloud.web.app/)
   - [Repo](https://github.com/kevinmilly/nexttask)
 
-- [K-Base: A personal knowledge geared towards technology learning](https://afternoon-shore-01719.herokuapp.com/)
+- [K-Base: A personal knowledge base geared towards technology learning](https://afternoon-shore-01719.herokuapp.com/)
     - [Frontend-Repo](https://github.com/kevinmilly/kbase-frontend)
     - [Backend-Repo](https://github.com/kevinmilly/kbase-backend)
 
