@@ -1,4 +1,4 @@
-# Hi!  I'm Kevin Smith.  I like to build 💻 utility scripts and things on the web
+# Hi!  I'm Kevin Smith.
 <!-- <p align="center">
     <img src="https://user-images.githubusercontent.com/13837028/118726504-69880f00-b7ff-11eb-9a23-fb9eb0b3ac79.png" width="250" height="300">
 </p> -->
