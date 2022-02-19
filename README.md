@@ -21,8 +21,8 @@
 - [PiggyLope Budget: A simple budgeting app inspired by the 'envelope method'](https://envelope-budget-55b22.web.app)
     - [Repo](https://github.com/kevinmilly/envelope-budget)
 
-- [Chunky Tabs: A chrome extension that helps you assign tasks to groups/chunks of tabs you open in commonly in Chrome](https://chrome.google.com/webstore/detail/chunky-tabs/hjaekpaljlgmaabhmpodkbkeokjjmjhd)
-    - [Repo](https://github.com/kevinmilly/chunktabs-v2)
+- [Chunky Tabs](https://chrome.google.com/webstore/detail/chunky-tabs/hjaekpaljlgmaabhmpodkbkeokjjmjhd)
+    -  A chrome extension that helps you assign tasks to groups/chunks of tabs you open in commonly in Chrome
     <br/>
 
 
